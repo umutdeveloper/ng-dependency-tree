@@ -1,0 +1,21 @@
+{
+  "name": "ng-dependency-tree",
+  "version": "1.0.0",
+  "description": "It finds all connected dependencies for Angular project",
+  "main": "bin.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umutdeveloper/ng-dependency-tree.git"
+  },
+  "author": "Umut Developer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umutdeveloper/ng-dependency-tree/issues"
+  },
+  "homepage": "https://github.com/umutdeveloper/ng-dependency-tree#readme"
+}

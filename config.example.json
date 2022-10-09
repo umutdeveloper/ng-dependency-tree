@@ -1,0 +1,6 @@
+{
+    "projectSourceDir": "src",
+    "includePattern": ".ts$",
+    "excludePattern": ".spec.ts$",
+    "tsConfigPath": "src/tsconfig.json"
+}
